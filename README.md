@@ -1,6 +1,9 @@
 
 # Rapport
 
+Har ändrat string "app_name" i res/values/strings.xml från "hello" till "Write something nice"
+
+
 **Skriv din rapport här!**
 
 _Du kan ta bort all text som finns sedan tidigare_.
